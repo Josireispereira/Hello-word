@@ -1,5 +1,5 @@
 # Hello-word
-Link direto para a pag https://github.com/reprograma
+Link https://github.com/reprograma
 
 Criando repositórios
 
